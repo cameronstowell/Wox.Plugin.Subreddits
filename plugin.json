@@ -1,0 +1,11 @@
+{
+    "ID":"",   
+    "ActionKeyword":"r/",                    
+    "Name":"Subreddits",                              
+    "Description":"Conducts a subreddit search",    
+    "Author":"Cameron Stowell",                 
+    "Version":"0.1",                  
+    "Language":"csharp",                   
+    "Website":"https://github.com/cameronstowell/Wox.Plugin.Subreddits",      
+    "ExecuteFileName":".dll"   
+  }
